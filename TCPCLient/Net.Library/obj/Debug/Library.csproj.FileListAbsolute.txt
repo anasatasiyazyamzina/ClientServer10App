@@ -1,0 +1,20 @@
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
+C:\Users\Анастасия\Downloads\Client-server-application-master\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Анастасия\Downloads\Client-server-application-master\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Анастасия\Downloads\Client-server-application-master\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Анастасия\Downloads\Client-server-application-master\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
+C:\Users\Анастасия\Downloads\Client-server-application-master\TCPCLient\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Анастасия\Downloads\Client-server-application-master\TCPCLient\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Анастасия\Downloads\Client-server-application-master\TCPCLient\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Анастасия\Downloads\Client-server-application-master\TCPCLient\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Анастасия\Downloads\Client-server-application-master\TCPCLient\Net.Library\obj\Debug\SomeProject.Library.pdb
+C:\Users\Анастасия\Documents\6 семестр\c#\10 lab'\TCPCLient\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Анастасия\Documents\6 семестр\c#\10 lab'\TCPCLient\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Анастасия\Documents\6 семестр\c#\10 lab'\TCPCLient\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Анастасия\Documents\6 семестр\c#\10 lab'\TCPCLient\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Анастасия\Documents\6 семестр\c#\10 lab'\TCPCLient\Net.Library\obj\Debug\SomeProject.Library.pdb
